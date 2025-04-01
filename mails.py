@@ -1,3 +1,6 @@
+'''
+Autor: Rafael López Otero
+'''
 
 import smtplib
 import pandas as pd
